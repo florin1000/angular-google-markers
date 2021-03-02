@@ -64,27 +64,7 @@ export class AppComponent {
         height: 45,
         url: getGoogleClusterInlineSvg('#97bf02'),
         width: 45,
-      },
-      {
-        height: 45,
-        url: getGoogleClusterInlineSvg('#fbb500'),
-        width: 45,
-      },
-      {
-        height: 45,
-        url: getGoogleClusterInlineSvg('#ed2d03'),
-        width: 45,
-      },
-      {
-        height: 45,
-        url: getGoogleClusterInlineSvg('#da067b'),
-        width: 45,
-      },
-      {
-        height: 45,
-        url: getGoogleClusterInlineSvg('#a0a0a0'),
-        width: 45,
-      },
+      }
     ],
     restriction: {
       latLngBounds: {
